@@ -1,0 +1,64 @@
+﻿{
+    "Random generator": [
+        {
+            "First Name": "Vivian",
+            "Last Name": "Murray",
+            "Email": "v.murray@randatmail.com",
+            "Phone": "348-4350-82"
+        },
+        {
+            "First Name": "Agata",
+            "Last Name": "Owens",
+            "Email": "a.owens@randatmail.com",
+            "Phone": "678-7490-48"
+        },
+        {
+            "First Name": "Alisa",
+            "Last Name": "Thompson",
+            "Email": "a.thompson@randatmail.com",
+            "Phone": "286-0585-94"
+        },
+        {
+            "First Name": "Audrey",
+            "Last Name": "Lloyd",
+            "Email": "a.lloyd@randatmail.com",
+            "Phone": "399-2140-36"
+        },
+        {
+            "First Name": "David",
+            "Last Name": "Cameron",
+            "Email": "d.cameron@randatmail.com",
+            "Phone": "006-9904-01"
+        },
+        {
+            "First Name": "Adison",
+            "Last Name": "Hamilton",
+            "Email": "a.hamilton@randatmail.com",
+            "Phone": "222-7945-29"
+        },
+        {
+            "First Name": "Alfred",
+            "Last Name": "Barnes",
+            "Email": "a.barnes@randatmail.com",
+            "Phone": "199-6483-78"
+        },
+        {
+            "First Name": "James",
+            "Last Name": "Allen",
+            "Email": "j.allen@randatmail.com",
+            "Phone": "356-3168-93"
+        },
+        {
+            "First Name": "Edgar",
+            "Last Name": "Gray",
+            "Email": "e.gray@randatmail.com",
+            "Phone": "283-2518-62"
+        },
+        {
+            "First Name": "Myra",
+            "Last Name": "Ross",
+            "Email": "m.ross@randatmail.com",
+            "Phone": "727-1412-06"
+        }
+    ]
+}
